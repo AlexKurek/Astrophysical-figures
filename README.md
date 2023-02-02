@@ -5,7 +5,7 @@ A set of intuition-giving Matlab figures on astrophysics. One of them (`angularR
 | angularRes.m     | 3.2   |
 | collectingArea.m | 3.1   |
 | reselDistance.m  | 4.13  |
-| spaceTelCompar.` | 3.5   |
+| spaceTelCompar.m | 3.5   |
 
 Merge requests are very welcome.
  
