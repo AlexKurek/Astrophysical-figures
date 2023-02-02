@@ -1,4 +1,4 @@
-A set of intuition-giving Matlab figures on astrophysics. One of them (`angularRes.m`) below. The rest can be found in my PhD thesis[^1]. Click to zoom.
+A set of intuition-giving Matlab figures on astrophysics. One of them (`angularRes.m`) below. The rest can be found in my PhD thesis[^1].
 
 | file               | figure in my thesis[^1] |
 | :--- | :---: |
