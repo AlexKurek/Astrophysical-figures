@@ -1,5 +1,12 @@
 A set of intuition-giving Matlab figures on astrophysics. One of them (`angularRes.m`) below. The rest can be found in my PhD thesis[^1]. Click to zoom.
 
+| file               | figure in my thesis[^1] |
+| :--- | :---: |
+| angularRes.m     | 3.2   |
+| collectingArea.m | 3.1   |
+| reselDistance.m  | 4.13  |
+| spaceTelCompar.` | 3.5   |
+
 Merge requests are very welcome.
  
 <p align="center">
