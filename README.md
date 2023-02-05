@@ -7,7 +7,7 @@ A set of intuition-giving Matlab figures on astrophysics. One of them (`angularR
 | reselDistance.m  | 4.13  |
 | spaceTelCompar.m | 3.5   |
 
-Merge requests are very welcome.
+Merge requests are very welcome - there is a lot of new data available.
  
 <p align="center">
   <img alt="From my PhD thesis" src="https://user-images.githubusercontent.com/45330694/215971453-18606ee3-9bcb-4422-9b73-1ad81aa9c0b6.jpg" />
